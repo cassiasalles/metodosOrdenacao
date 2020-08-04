@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="net.sf.jasperreports.JR_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/jasperreports-5.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections4-4.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections4-4.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections4-4.4-tests.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-collections4-4.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/org.springframework.beans-3.1.2.release.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/org.springframework.asm-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/org.springframework.core-3.1.0.release.jar"/>
+	<classpathentry kind="lib" path="D:/Área de Trabalho/Bigs/Projetos Eclipse/APS/lib/joda-time-2.10.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
